@@ -1,4 +1,4 @@
-![Badge tracking project size](https://img.shields.io/github/repo-size/Preffet/dll-unhooking&ETW-bypass?color=%23611487)![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/dll-unhooking&ETW-bypass?color=%23361487)![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/dll-unhooking&ETW-bypass?color=%23142d87)
+![Badge tracking project size](https://img.shields.io/github/repo-size/Preffet/dll-unhooking-and-ETW-bypass?color=%23611487)![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/dll-unhooking-and-ETW-bypass?color=%23361487)![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/dll-unhooking-and-ETW-bypass?color=%23142d87)
 
 --------------------------------------------------------
 <img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/Empty2/assets/84241003/959e772e-4fa1-4680-9f5f-0287b3f630b8">
@@ -30,3 +30,7 @@ To insert your own shellcode, you need to update the NqQlPkEKGs variable. Note t
 
 [Full DLL Unhooking with C++ by Red Team Notes](https://www.ired.team/offensive-security/defense-evasion/how-to-unhook-a-dll-using-c++)
 
+------------------------------------------------------------
+## Disclaimer
+
+This application was developed as part of my learning journey around DLL unhooking and is intended solely for educational purposes.
