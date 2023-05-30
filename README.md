@@ -1,6 +1,10 @@
 ![Badge tracking project size](https://img.shields.io/github/repo-size/Preffet/dll-unhooking-and-ETW-bypass?color=%23611487)![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/dll-unhooking-and-ETW-bypass?color=%23361487)![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/dll-unhooking-and-ETW-bypass?color=%23142d87)
 
-![banner2]([https://user-images.githubusercontent.com/84241003/161315681-45e2d4f6-80bf-409b-bf54-69d3e326b13d.png](https://github.com/Preffet/dll-unhooking-and-ETW-bypass/assets/84241003/6d83f7a8-eaa5-44d2-8e3a-696cbaa7051a))
+<img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/dll-unhooking-and-ETW-bypass/assets/84241003/5fa89a51-90b8-4d2f-8586-2bcf8c3ab113">
+
+
+![banner2](<img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/dll-unhooking-and-ETW-bypass/assets/84241003/063cf70a-1e15-4c9a-91e9-f37ecb7d8607">
+)
 
 --------------------------------------------------------
 ## Description
