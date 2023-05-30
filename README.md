@@ -2,10 +2,6 @@
 
 <img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/dll-unhooking-and-ETW-bypass/assets/84241003/5fa89a51-90b8-4d2f-8586-2bcf8c3ab113">
 
-
-![banner2](<img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/dll-unhooking-and-ETW-bypass/assets/84241003/063cf70a-1e15-4c9a-91e9-f37ecb7d8607">
-)
-
 --------------------------------------------------------
 ## Description
 
