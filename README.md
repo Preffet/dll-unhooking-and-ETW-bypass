@@ -1,9 +1,14 @@
+![Badge tracking project size](https://img.shields.io/github/repo-size/Preffet/dll-unhooking&ETW-bypass?color=%23611487)![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/dll-unhooking&ETW-bypass?color=%23361487)![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/dll-unhooking&ETW-bypass?color=%23142d87)
+
+--------------------------------------------------------
+<img width="962" alt="Screen Shot 2023-05-30 at 22 01 53" src="https://github.com/Preffet/Empty2/assets/84241003/959e772e-4fa1-4680-9f5f-0287b3f630b8">
+
+
 --------------------------------------------------------
 ## Description
 
-C++ blueprint script for executing DLL Unhooking and modifying ETW.
-
-The script is aimed at detecting and unhooking potential function hooks within ntdll.dll
+This is a blueprint script for executing DLL Unhooking and modifying ETW, written in C++. It 
+is aimed at detecting and unhooking potential function hooks within ntdll.dll
 system library and also attempts to disable Windows event tracing (ETW) to avoid detection.
 
 It works as follows:
